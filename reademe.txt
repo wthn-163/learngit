@@ -1,2 +1,4 @@
-git si a version control system, 
-we are free.
+git is distributed version control system 
+we are free software.
+it is under the gpl
+git has a mutable index called stage.
